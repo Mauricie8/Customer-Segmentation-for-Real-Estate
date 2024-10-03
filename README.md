@@ -49,7 +49,7 @@ Over 66 surveyed owners (51,16% of total owners), we can say that:
 - Most respondents live in 2-bedroom, 2-bathroom apartments (46).
 
 
-# Conclusion
+## Conclusion
 The slider highlights that customers who rated between 6 and 7 on the recommendation index would be the *Customer persona* of the company. The main reasons of this conclusion is that those customers have aproximately 81% of net satisfaction and in the most of the cases will recommend the brand and company to other persons.
 The Customer Persona for the company are persons that match with the next features:
 - Mostly married people.
